@@ -1,3 +1,5 @@
+This application is based on Google Code Lab's [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/) tutorial.  Thank you, Google.
+
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
