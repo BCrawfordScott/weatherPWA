@@ -302,8 +302,8 @@
       }
     }
   };
-  // TODO uncomment line below to test app with fake data
-  app.updateForecastCard(initialWeatherForecast);
+  // fake seed data for testing
+  // app.updateForecastCard(initialWeatherForecast);
 
   // TODO add startup code here
 
